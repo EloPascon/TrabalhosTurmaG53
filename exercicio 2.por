@@ -5,9 +5,8 @@ programa
 	{
 		inteiro idade
 		inteiro resultadoFinal
-		inteiro anos 
-		inteiro meses 
-		inteiro dias
+		inteiro anos, meses, dias
+	
 
           escreva("quantos dias vc tem?")
           leia(dias)
@@ -29,7 +28,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 339; 
+ * @POSICAO-CURSOR = 103; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
